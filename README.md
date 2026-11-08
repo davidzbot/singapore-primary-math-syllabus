@@ -1,6 +1,8 @@
 # Singapore Primary Mathematics Syllabus 2021 Dataset (P1–P6)
 
-**Version 1.0.0 · Published 2026-11-07 · Independently compiled by PSLE Hero — not an official MOE dataset.**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24053661.svg)](https://doi.org/10.5281/zenodo.24053661)
+
+**Version 1.0.1 · DOI [10.5281/zenodo.24053661](https://doi.org/10.5281/zenodo.24053661) · Independently compiled by PSLE Hero — not an official MOE dataset.**
 
 An open, machine-readable dataset of the **MOE 2021 Primary Mathematics Syllabus (Primary One to Six), Updated October 2025**.
 It is designed for teachers preparing materials, parents, tutors and developers building learning tools.
@@ -86,7 +88,7 @@ Field order in CSV is as above. JSON preserves the same keys.
 ## Suggested citation
 
 APA:
-> PSLE Hero. (2026). *Singapore Primary Mathematics Syllabus 2021 dataset (P1–P6)* (Version 1.0.0) [Data set]. https://pslehero.org/singapore-math-syllabus.html#dataset
+> PSLE Hero. (2026). *Singapore Primary Mathematics Syllabus 2021 dataset (P1–P6)* (Version 1.0.1) [Data set]. https://doi.org/10.5281/zenodo.24053661
 
 BibTeX:
 ```bibtex
@@ -94,14 +96,15 @@ BibTeX:
   title   = {Singapore Primary Mathematics Syllabus 2021 Dataset (P1-P6)},
   author  = {{PSLE Hero}},
   year    = {2026},
-  version = {1.0.0},
+  version = {1.0.1},
+  doi     = {10.5281/zenodo.24053661},
   url     = {https://pslehero.org/singapore-math-syllabus.html#dataset}
 }
 ```
 
 ## Version history
 
-See `CHANGELOG.md`. Current version: **v1.0.0 (2026-11-07)**.
+See `CHANGELOG.md`. Current version: **v1.0.1 (2026-11-08)**.
 
 ## Licence notice
 

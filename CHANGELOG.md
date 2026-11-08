@@ -6,6 +6,7 @@ Data unchanged; packaging and citation release that mints the Zenodo DOI via the
 
 - Adds `CITATION.cff` (drives the GitHub "Cite this repository" widget) and `.zenodo.json` (creators, license, keywords, `isIdenticalTo` related-identifier to the landing page)
 - Publishes release assets (CSV/JSON) for archiving
+- Minted Zenodo DOI [10.5281/zenodo.24053661](https://doi.org/10.5281/zenodo.24053661) (repository zip, license CC BY-NC 4.0, creators PSLE Hero & BrainActive Labs, isIdenticalTo -> pslehero.org dataset page)
 - No changes to any learning point, row count, schema or licence
 
 ## v1.0.0 — 2026-11-07
