@@ -25,6 +25,8 @@ Also excluded: MOE's descriptive aims, pedagogy, assessment guidance and example
 
 ## Source and provenance
 
+Permanent archival: archived by [Software Heritage](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/davidzbot/singapore-primary-math-syllabus) with snapshot SWHID \swh:1:snp:b69f2d689c3857a4d2b154b0190e154421eb5713\ (2026-11-08, full visit of the GitHub repository).
+
 - Official document: **MOE, Mathematics Syllabus – Primary One to Six**, implementation starting with the **2021 Primary One cohort**, **Updated October 2025**.
 - The PDF is published by the Ministry of Education of Singapore and distributed through the official page <https://www.moe.gov.sg/primary/curriculum/syllabus>. Direct file (as linked by MOE on that page): <https://www.moe.gov.sg/api/media/92bff26d-b2b4-4535-b868-b8415c744b91/2021-Primary-Mathematics-Syllabus-P1-to-P6-Updated-October-2025.pdf>
 - Extraction: Section 5 "Content by Level" (pages 31–44 for the Standard syllabus) was machine-extracted (PyMuPDF) and then **manually reviewed row by row** by the PSLE Hero Editorial Team against the official PDF, including symbol-level verification of algebraic notation (e.g. `a ± 3`, `a × 3 or 3a`, `a ÷ 3 or a/3`, `use of √, ³√`, superscript area/volume units (cm²/m²/cm³/m³) and `total value ÷ number of data`).
