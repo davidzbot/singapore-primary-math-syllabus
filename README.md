@@ -1,6 +1,7 @@
 # Singapore Primary Mathematics Syllabus 2021 Dataset (P1–P6)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24053661.svg)](https://doi.org/10.5281/zenodo.24053661)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/pslebot/singapore-primary-math-syllabus-2021-dataset)
 
 **Version 1.0.1 · DOI [10.5281/zenodo.24053661](https://doi.org/10.5281/zenodo.24053661) · Independently compiled by PSLE Hero — not an official MOE dataset.**
 
