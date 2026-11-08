@@ -5,11 +5,18 @@ type: dataset
 authors:
   - name: PSLE Hero & BrainActive Labs
     website: https://pslehero.org
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-07
 url: https://pslehero.org/singapore-math-syllabus.html#dataset
 repository-code: https://github.com/davidzbot/singapore-primary-math-syllabus
 license: CC-BY-NC-4.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24053661
+    description: Zenodo archival of the dataset (canonical DOI)
+  - type: doi
+    value: 10.34740/kaggle/dsv/21857026
+    description: Kaggle mirror, platform DOI
 keywords:
   - Singapore
   - mathematics
