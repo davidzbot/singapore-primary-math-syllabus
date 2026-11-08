@@ -1,0 +1,33 @@
+{
+  "title": "Singapore Primary Mathematics Syllabus 2021 Dataset (P1-P6)",
+  "description": "Machine-readable dataset of the MOE 2021 Primary Mathematics Syllabus (Primary One to Six), Standard Mathematics syllabus, updated October 2025. 202 learning points across the three content strands (Number and Algebra; Measurement and Geometry; Statistics): learning area, sub-strand, topic, official item code and learning-point text, each with a page-level source reference into the official document. Independently compiled from MOE's official PDF and manually verified row-by-row. Not produced, endorsed or approved by MOE - the official document prevails. Licensed CC BY-NC 4.0.",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-11-07",
+  "license": "cc-by-nc-4.0",
+  "creators": [
+    {
+      "name": "PSLE Hero & BrainActive Labs",
+      "affiliation": "PSLE Hero",
+      "url": "https://pslehero.org"
+    }
+  ],
+  "keywords": [
+    "singapore",
+    "mathematics",
+    "syllabus",
+    "primary education",
+    "PSLE",
+    "MOE",
+    "curriculum"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://pslehero.org/singapore-math-syllabus.html#dataset",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng",
+  "access_right": "open"
+}

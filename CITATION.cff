@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Singapore Primary Mathematics Syllabus 2021 Dataset (P1-P6)
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - name: PSLE Hero & BrainActive Labs
+    website: https://pslehero.org
+version: 1.0.0
+date-released: 2026-11-07
+url: https://pslehero.org/singapore-math-syllabus.html#dataset
+repository-code: https://github.com/davidzbot/singapore-primary-math-syllabus
+license: CC-BY-NC-4.0
+keywords:
+  - Singapore
+  - mathematics
+  - syllabus
+  - primary school
+  - PSLE
+  - MOE
+  - curriculum
