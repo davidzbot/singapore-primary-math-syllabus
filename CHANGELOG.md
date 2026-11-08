@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.1 — 2026-11-08
+
+Data unchanged; packaging and citation release that mints the Zenodo DOI via the GitHub-Zenodo integration.
+
+- Adds `CITATION.cff` (drives the GitHub "Cite this repository" widget) and `.zenodo.json` (creators, license, keywords, `isIdenticalTo` related-identifier to the landing page)
+- Publishes release assets (CSV/JSON) for archiving
+- No changes to any learning point, row count, schema or licence
+
 ## v1.0.0 — 2026-11-07
 
 Initial release.
