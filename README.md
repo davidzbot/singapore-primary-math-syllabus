@@ -41,8 +41,16 @@ This is an independent compilation. It is **not produced, endorsed or approved b
 |---|---|---|---|
 | `singapore-primary-math-syllabus-2021.csv` | CSV (header row) | 202 | UTF-8 (no BOM) |
 | `singapore-primary-math-syllabus-2021.json` | JSON (array of objects) | 202 | UTF-8 |
+| `DATASET.md` | Provenance & citation one-pager (source freeze, SHA-256, audit results) | docs | UTF-8 |
+| `FIELDS.md` | Field dictionary (types, enum domains, null rules, format notes) | docs | UTF-8 |
+| `CHANGELOG.md` | Version history | docs | UTF-8 |
+| `NOTICE.md` | Attribution and underlying rights (MOE publication notice) | docs | UTF-8 |
+| `LICENSE` | Verbatim CC BY-NC 4.0 legal code (SPDX `CC-BY-NC-4.0`) | docs | UTF-8 |
 
 ## Schema
+
+Field-by-field types, enum domains, null rules, observed value ranges and format notes: **`FIELDS.md`**.
+Provenance, source freeze (SHA-256) and audit results: **`DATASET.md`**.
 
 | Field | Type | Description |
 |---|---|---|

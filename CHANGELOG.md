@@ -1,5 +1,16 @@
 # Changelog
 
+## Unreleased — 2026-11-12 (documentation and licensing only; no release, no new DOI)
+
+No data changes, no schema changes, no row changes. Deliberately **not** tagged or released on GitHub, so no additional Zenodo DOI is minted; DOI 10.5281/zenodo.24053661 remains canonical for v1.0.0/v1.0.1.
+
+- Adds `DATASET.md` — one-page citation/provenance datasheet (identity, source freeze, structural audit, license, citation, contact)
+- Adds `FIELDS.md` — field dictionary: types, enum domains (13 sub-strands; levels P1–P6; strands 118/76/8), null rules, code scoping (`per level+topic`), observed ranges (max subtopic 224 chars; page refs 31–44), CSV/JSON format notes
+- Adds `NOTICE.md` — attribution, compilation vs underlying-rights split, MOE publication notice; `LICENSE` replaced with the verbatim CC BY-NC 4.0 legal code (SPDX `CC-BY-NC-4.0`) so the licence is machine-detectable (previous custom summary moved to NOTICE.md)
+- Source freeze recorded (2026-11-12): official MOE PDF `2021-Primary-Mathematics-Syllabus-P1-to-P6-Updated-October-2025.pdf`, 806,004 bytes, SHA-256 `E8F77FE10D768E2AD5266DFC39A8821674BE7EB1C81BC545BA4B841B12AE70E1`
+- Independent structural audit (2026-11-12, outside the build): 202/202 rows; per-level/per-strand counts match; 0 duplicates; 0 empty cells; CSV↔JSON record equivalence PASS; 199/202 automated text probes against pp. 31–44; the 3 misses are the documented SymbolMT font-private-glyph superscript items (cm²/cm³), previously manually verified
+- `README.md` unchanged except for pointer links to the new files
+
 ## v1.0.1 — 2026-11-08
 
 Data unchanged; packaging and citation release that mints the Zenodo DOI via the GitHub-Zenodo integration.
